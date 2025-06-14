@@ -3,7 +3,7 @@
 ## About Travel-IN  
 **Travel-IN** is a smart travel planning website built to simplify and personalize the way people explore India. It offers tailored itineraries and destination suggestions, allowing users to plan trips effortlessly and make their travel experience memorable. 🏞️✨
 
-![Home Page](Frontpage.png)
+![Home Page](Screenshots/Frontpage.png)
 
 ## ✨ Features  
 - 📅 Personalized itineraries based on user preferences  
@@ -11,8 +11,8 @@
 - 🍽️ Recommendations for places to eat, visit, and explore  
 - 🖥️ Simple, responsive UI for a seamless experience on any device  
 
-![Tours Page](tours.png)  
-![Destination Sample - Jaipur](jaipur.png)
+![Tours Page](Screenshots/Tours.png)  
+![Destination Sample - Jaipur](Screenshots/Jaipur.png)
 
 ## 🛠️ Technologies Used  
 - **HTML** – Structure of the website  
